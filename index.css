@@ -2,7 +2,7 @@
     color-scheme: light dark;
 }
 body {
-    width: 95%;
+    width: 80%;
     padding: 10px;
     font-family: system-ui;
     text-align: center;
@@ -11,5 +11,5 @@ body {
 }
 
 img {
-    width: 30%;
+    width: 70%;
 }
